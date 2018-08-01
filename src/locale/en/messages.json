@@ -1,0 +1,12 @@
+{
+  "someId": {
+    "translation": "To get started, edit <0>src/App.js</0> and save to reload.",
+    "defaults": "To get started, edit <0>src/App.js</0> and save to reload.",
+    "origin": [
+      [
+        "src/App.js",
+        21
+      ]
+    ]
+  }
+}
