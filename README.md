@@ -21,7 +21,7 @@ The following JSX code snippet triggers the error:
 The error only occurs when the `<Trans>` element contains HTML tags and if the `id` attribute is specified. If the `id` attribute is omitted then the page renders without error message, but the `<Trans>` block appears entirely blank.
 
 I am not sure if I'm just misusing Lingui somehow, or if localizing embedded HTML markup is supported at all. However, the first example on the documentation page about "React patterns"
-suggests that formatting and nested elements ar OK. It just doesn't work. https://lingui.github.io/js-lingui/tutorials/react-patterns.html
+suggests that nested elements are OK. It just doesn't work. https://lingui.github.io/js-lingui/tutorials/react-patterns.html
 
 # Development Environment
 
